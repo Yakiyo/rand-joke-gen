@@ -1,3 +1,6 @@
 # rand-joke-gen
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-gkbxdd)
+A simple site for getting random jokes.
+Made the site for learning basic frontend stuff.
+
+Inspired from [`safayetdib/Random-Joke-Generator`](https://github.com/safayetdib/Random-Joke-Generator)
